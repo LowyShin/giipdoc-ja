@@ -8,6 +8,8 @@ giipを活用したスクリプトの共有などにお使い頂ければと思�
 
 英語版 : https://github.com/LowyShin/giip (giip関連scriptもあります！）
 
+文書（Wiki） : https://github.com/LowyShin/giip-ja/wiki
+
 # 概要
 
 システム（サーバーとパソコン及びモバイル・IoTデバイスまで）の完全自動運用を目指して作ったエンジンです。
