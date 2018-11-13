@@ -4,7 +4,7 @@ giipの日本語バージョンを新しいgitに移しました！
 
 giipを活用したスクリプトの共有などにお使い頂ければと思います。
 
-サービスページ ： http://giipweb.littleworld.net
+サービスページ ： http://giipweb.littleworld.net （フロントは英語だけどログインすると日本語対応しています。そしてフロントは誰でも自分なりのフロントが作れるのでご連絡ください）
 
 英語版 : https://github.com/LowyShin/giip (giip関連scriptもあります！）
 
