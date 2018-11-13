@@ -22,6 +22,9 @@ SFI(SONY Finance International)の金融システム運用経験とNexonの大�
 
 10年以上を作り続けているgiipエンジンには次の哲学が含まれています。
 
+このような使い方もあります。
+https://www.slideshare.net/LowyShin/giip-engine-open-source-revolution
+
 ## KVS(Key Value Store）
 全てのシステムのデータを収集するために非整形データタイプのJSONをデータベースのように使う為にKVS（Key Value Store）の概念を導入しました。
 
