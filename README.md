@@ -24,9 +24,6 @@ SFI(SONY Finance International)の金融システム運用経験とNexonの大�
 
 10年以上を作り続けているgiipエンジンには次の哲学が含まれています。
 
-このような使い方もあります。
-https://www.slideshare.net/LowyShin/giip-engine-open-source-revolution
-
 ## KVS(Key Value Store）
 全てのシステムのデータを収集するために非整形データタイプのJSONをデータベースのように使う為にKVS（Key Value Store）の概念を導入しました。
 
@@ -61,6 +58,8 @@ Morris.js, jqplotなどJSONをサポートしている様々なグラフツー�
 ## Opensource
 MSA構造で作られているのでOpenstackなりKubernetesなりNode.js、Bootstrap、ELK（Elastic Logstash Kibana）、EFK（Elastic Fluentbit Kibana）など様々なオープンソースとの連携が可能で、オープンソースを利用した場合giipの重複する機能はそのまま飛ばせます。
 なので使いたいオープンソースを自由に利用して構築することができます。
+
+https://www.slideshare.net/LowyShin/giip-engine-open-source-revolution
 
 ## MarketPlace
 様々なシステム運用のコツをスクリプトにするとそのまま販売できます。例えば簡単なバックアップスクリプトが1回1円だとしたら1日1回バックアップしても1ヶ月約30円になります。なので勝手に使った方がもっと楽になるのです。そしてMongoDB・Hadoopなどのインストールが複雑なツールのインストールもマーケットプレースからインストールしちゃえば楽にできちゃいます。知識として持っていた方がいいのと要らないので安く頼むことさえきちんと管理できればマーケットプレースは無限の時間節約になれます。
