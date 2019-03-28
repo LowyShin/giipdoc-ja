@@ -14,6 +14,8 @@ giipを活用したスクリプトの共有などにお使い頂ければと思�
 
 文書（Wiki） : https://github.com/LowyShin/giip-ja/wiki
 
+Sample Script : https://github.com/LowyShin/giip/tree/gh-pages/giipscripts
+
 # 概要
 
 世の中の全てのデバイス（サーバーとパソコン及びモバイル・IoTデバイスまで）の完全自動運用には何が必要でしょうか。
