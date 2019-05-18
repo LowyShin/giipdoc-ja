@@ -2,6 +2,8 @@
 
 giipの日本語バージョンを新しいgitに移しました！
 
+wiki home : https://github.com/LowyShin/giipdoc-ja/wiki
+
 日本語バージョンのドキュメント作成を手伝ってくれる方をお待ちしております！
 
 個人でも企業でもいいので是非！
